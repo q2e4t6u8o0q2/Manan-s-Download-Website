@@ -13,3 +13,4 @@ Majority code from chat Gpt
 
 Styling from self and codepo8 (https://github.com/codepo8/full-card-click/commits?author=codepo8)
 
+I have hosted this server on a usb drive but it works directly from your pc too :)
