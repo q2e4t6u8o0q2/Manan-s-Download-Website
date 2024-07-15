@@ -9,6 +9,8 @@ Pls mention any suggestions or features i should add . I'm also currently workin
 
 Server hosting app ---> Rebex tiny server ( https://www.rebex.net/tiny-sftp-server/ )
 
+**Also if possible pls email me the server certificate password at mananidhi110@gmail.com**
+
 Website used to create json file ---> https://app.raw-labs.com/dashboard
 
 json file on website --->  https://app.raw-labs.com/workspace/2513
