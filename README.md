@@ -7,6 +7,10 @@ I have hosted this server on a usb drive but it works directly from your pc too 
 
 Pls mention any suggestions or features i should add . I'm also currently working on a few.
 
+Future Additions --->
+
+Hamburger Menu
+
 Server hosting app ---> Rebex tiny server ( https://www.rebex.net/tiny-sftp-server/ )
 
 **Also if possible pls email me the server certificate password at mananidhi110@gmail.com**
