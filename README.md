@@ -15,6 +15,8 @@ Server hosting app ---> Rebex tiny server ( https://www.rebex.net/tiny-sftp-serv
 
 **Also if possible pls email me the server certificate password at mananidhi110@gmail.com**
 
+The json file is mainly for reference.
+
 Website used to create json file ---> https://app.raw-labs.com/dashboard
 
 json file on website --->  https://app.raw-labs.com/workspace/2513
