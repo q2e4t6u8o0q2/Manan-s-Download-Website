@@ -21,6 +21,6 @@ Website used to create json file ---> https://app.raw-labs.com/dashboard
 
 json file on website --->  https://app.raw-labs.com/workspace/2513
 
-Majority code from chat Gpt
+Majority(~60%-70%) code from chat Gpt
 
 Styling from self and codepo8 (https://github.com/codepo8/full-card-click/commits?author=codepo8)
